@@ -5,6 +5,9 @@ Trabalho Final de Disciplina
 - Clone o repositório
 
 - Obs.: Você pode pular as seguintes instruções executando o script inicia.sh:
+    - Para rodar o mesmo use os seguintes comandos:
+        - sudo chmod + x ./provisions/iniciar.sh
+        - ./provisions/iniciar.sh       
     - Entre na pasta banco e execute: vagrant init --provision
       - Ao executar o comando o arquivo docker-prometheus.sh, que vai efetuar a instalação do docker, e usar o docker pra instalar e iniciar o servidor prometheus 
     - Entre na pasta front e execute: vagrant init --provision
