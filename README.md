@@ -7,13 +7,13 @@ Trabalho Final de Disciplina
 - Obs.: Você pode pular as seguintes instruções executando o script inicia.sh:
     - Para rodar o mesmo use os seguintes comandos:
         - sudo chmod + x ./provisions/iniciar.sh
-        - ./provisions/iniciar.sh       
+        - ./provisions/iniciar.sh      
+ 
+- Caso vá seguir os passos:
     - Entre na pasta banco e execute: vagrant init --provision
       - Ao executar o comando o arquivo docker-prometheus.sh, que vai efetuar a instalação do docker, e usar o docker pra instalar e iniciar o servidor prometheus 
     - Entre na pasta front e execute: vagrant init --provision
       - Ao executar o comando o arquivo docker-grafana.sh, que vai efetuar a instalação do docker, e usar o docker pra instalar e iniciar o servidor grafana
-    - Acesse o prometheus (http://192.168.1.4:9090/)
-    - Acesse o grafana (http://192.168.1.3:3000/)
     - Entre na pasta controle e execute: vagrant init --provision
       - Quando executado o script shell de provisionamento o ansible será instalado na máquina
 
