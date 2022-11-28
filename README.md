@@ -3,6 +3,7 @@ Trabalho Final de Disciplina
 
 # Instruções 
 - Clone o repositório
+    - git clone https://github.com/GabrielGG1234/TFD.git
 
 - Obs.: Você pode pular as seguintes instruções executando o script inicia.sh:
     - Para rodar o mesmo use os seguintes comandos:
