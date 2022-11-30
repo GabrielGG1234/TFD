@@ -7,8 +7,10 @@ Trabalho Final de Disciplina
 
 - Obs.: Você pode pular as seguintes instruções executando o script inicia.sh:
     - Para rodar o mesmo use os seguintes comandos:
-        - sudo chmod + x ./provisions/iniciar.sh
-        - ./provisions/iniciar.sh      
+        - cd TFD/provisions
+        - sudo chmod 777 ./iniciar.sh
+        - ./iniciar.sh
+        
  
 - Caso vá seguir os passos:
     - Entre na pasta banco e execute: vagrant init --provision
