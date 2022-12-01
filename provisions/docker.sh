@@ -1,5 +1,7 @@
 sudo yum check-update
+sudo yum install install -y
 curl -fsSL https://get.docker.com/ | sh
 sudo systemctl start docker
 sudo systemctl enable docker
-docker run -d -p 3000:3000 --name grafana grafana/grafana:latest &
+
+echo "Vm Ok... Docker instalado com sucesso"
