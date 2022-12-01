@@ -2,8 +2,8 @@
     Pré requisitos:
         1. Virtual Box
         2. Python
-        3. Vagrant
-        4. PyWin32* 
+        3. PyWin32*
+        4. Vagrant
         *caso seja windows
 # Instruções (com iniciar.sh)
     - Clone o repositório
