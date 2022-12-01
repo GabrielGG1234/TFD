@@ -1,5 +1,10 @@
 # TFD - Trabalho Final de Disciplina
-
+    Pré requisitos:
+        1. Virtual Box
+        2. Python
+        3. Vagrant
+        4. PyWin32* 
+        *caso seja windows
 # Instruções (com iniciar.sh)
     - Clone o repositório
         - git clone https://github.com/GabrielGG1234/TFD.git
