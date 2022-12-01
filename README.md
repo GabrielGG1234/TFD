@@ -43,7 +43,7 @@
 -----------------------------------------------------------------------------------------------------
   
 # Próximos passos  
-  [ ] Interligar a dashboard do grafana com o prometheus
-  [ ] Colocar Ansible pra monitorar os servidores de banco de dados e front-end, atualizando sempre que necessário
+  () Interligar a dashboard do grafana com o prometheus
+  () Colocar Ansible pra monitorar os servidores de banco de dados e front-end, atualizando sempre que necessário
   
   
