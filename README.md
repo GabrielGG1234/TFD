@@ -1,7 +1,4 @@
-# TFD
-Trabalho Final de Disciplina
-
------------------------------------------------------------------------------------------------------
+# TFD - Trabalho Final de Disciplina
 
 # Instruções (com iniciar.sh)
     - Clone o repositório
@@ -43,10 +40,10 @@ Trabalho Final de Disciplina
         - Acesse o prometheus (http://192.168.1.4:9090/)
         - Acesse o grafana (http://192.168.1.3:3000/)
   
-  -----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
   
 # Próximos passos  
-  [] => Interligar a dashboard do grafana com o prometheus
-  [] => Colocar Ansible pra monitorar os servidores de banco de dados e front-end, atualizando sempre que necessário
+  [ ] Interligar a dashboard do grafana com o prometheus
+  [ ] Colocar Ansible pra monitorar os servidores de banco de dados e front-end, atualizando sempre que necessário
   
   
